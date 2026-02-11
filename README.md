@@ -1,7 +1,7 @@
 # TaskFlow - AI-Powered Todo App
 
-**Name:** [YOUR NAME]  
-**UMID:** [YOUR UMID]
+**Name:** Gianmarco Iparraguirre 
+**UMID:** 6361 1583
 
 ---
 
